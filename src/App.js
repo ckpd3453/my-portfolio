@@ -9,7 +9,6 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Education from "./components/Education";
 import { Toaster } from "react-hot-toast";
-import EnquiryForm from "./components/EnquiryForm";
 
 export default function App() {
   const [text] = useTypewriter({
