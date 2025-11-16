@@ -103,7 +103,7 @@ export default function Header() {
 
                     {/* ✨ Download Resume */}
                     <motion.a
-                        href="https://drive.google.com/uc?export=download&id=1sqt9k29pq0xhn3MFg1ZTCvV_NiCB-1ok"
+                        href="/crio_ckpd_resume.pdf.pdf"
                         download="Chandrakant_Prasad_Resume.pdf"
                         onClick={handleDownload}
                         whileHover={{ scale: 1.1 }}
